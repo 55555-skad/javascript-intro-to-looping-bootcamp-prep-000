@@ -19,7 +19,11 @@ function whileLoop(count){
   return 'done'
 }
 
-
+function doWhileLoop(num){
+  
+  
+  
+}
 
 
 

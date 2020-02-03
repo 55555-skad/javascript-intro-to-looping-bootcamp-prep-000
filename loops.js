@@ -1,5 +1,5 @@
 function forLoop(array){
-  forLoop
+  forLoop(i = 1; i < 25)
   
   return array
 }
